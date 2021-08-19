@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.06f3dbfb.chunk.css",
+    "main.js": "/shopping/static/js/main.2acd46b5.chunk.js",
+    "main.js.map": "/shopping/static/js/main.2acd46b5.chunk.js.map",
+    "runtime-main.js": "/shopping/static/js/runtime-main.caf16af3.js",
+    "runtime-main.js.map": "/shopping/static/js/runtime-main.caf16af3.js.map",
+    "static/js/2.673eaccc.chunk.js": "/shopping/static/js/2.673eaccc.chunk.js",
+    "static/js/2.673eaccc.chunk.js.map": "/shopping/static/js/2.673eaccc.chunk.js.map",
+    "static/js/3.1ffb44c9.chunk.js": "/shopping/static/js/3.1ffb44c9.chunk.js",
+    "static/js/3.1ffb44c9.chunk.js.map": "/shopping/static/js/3.1ffb44c9.chunk.js.map",
+    "index.html": "/shopping/index.html",
+    "static/css/main.06f3dbfb.chunk.css.map": "/shopping/static/css/main.06f3dbfb.chunk.css.map",
+    "static/js/2.673eaccc.chunk.js.LICENSE.txt": "/shopping/static/js/2.673eaccc.chunk.js.LICENSE.txt",
+    "static/media/heartSolid.ca594af3.png": "/shopping/static/media/heartSolid.ca594af3.png",
+    "static/media/heartStroke.b769c495.png": "/shopping/static/media/heartStroke.b769c495.png",
+    "static/media/logo.6ce24c58.svg": "/shopping/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caf16af3.js",
+    "static/js/2.673eaccc.chunk.js",
+    "static/css/main.06f3dbfb.chunk.css",
+    "static/js/main.2acd46b5.chunk.js"
+  ]
+}
